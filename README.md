@@ -33,12 +33,12 @@
   - Windows
   - Linux
   - macOS
-- **2.2. Software de Aplicação**
+- **2.2. [Software-de-Aplicação](docs/Software-de-Aplicação.md)**
   > Programas que permitem ao usuário realizar tarefas específicas.
   - Navegadores (Chrome, Firefox)
   - Pacotes de Escritório (Microsoft Office, LibreOffice)
   - Edição de Imagem/Vídeo (Photoshop, Premiere)
-- **2.3. Software de Desenvolvimento**
+- **2.3. [Software-de-Desenvolvimento](docs/Software-de-Desenvolvimento.md)**
   > Ferramentas usadas por programadores para criar software.
   - IDEs (Visual Studio Code, IntelliJ) ```ajudam na escrita de código;```
   - Ferramentas de Controle de Versão (Git, GitHub) ```controle de versão e gerenciamento de mudanças no código.```

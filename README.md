@@ -30,6 +30,7 @@
 ### 💾 2. Software
 - **2.1. Sistema Operacional**
   > Software que gerencia o hardware e permite a execução de outros programas.
+  [Documentação](./docs/)
   - Windows
   - Linux
   - macOS

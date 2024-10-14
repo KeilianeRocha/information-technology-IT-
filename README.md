@@ -28,9 +28,8 @@
   - Scanner
 
 ### 💾 2. Software
-- **2.1. Sistema Operacional**
+- **2.1. [Sistema-Operacional](docs/Sistema-Operacional.md)**
   > Software que gerencia o hardware e permite a execução de outros programas.
-  [Documentação](./docs/)
   - Windows
   - Linux
   - macOS
